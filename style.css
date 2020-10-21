@@ -6,7 +6,7 @@ body {
 	margin: 0;
 	font-family: sans-serif;
 	background: #000a00;
-	background-image: url(dima3-1.jpg);
+	background-image: url(docs/dima3-1.jpg);
 	background-repeat: no-repeat;
 	/*background-position: center;*/
 	
@@ -22,7 +22,7 @@ body {
 }
 
 .nav {
-	margin-left: 20px;
+	/*margin-left: 20px;*/
 	width: 200px;
 	background-color: #596275;
 	border-radius: 8px;
@@ -79,6 +79,7 @@ body {
 	background-color: #8aa881;
 	overflow: hidden;
 	margin-left: 20px;
+	margin-right: 20px;
 	margin-top: 15px;
 	border-radius: 8px;
 	font-weight: bold;
@@ -178,7 +179,7 @@ margin: 0px 10px;
 	height: 200px;
 	background-position: center;
 	background-size: cover;
-	background-image: url(cover_PAM_small.jpg);
+	background-image: url(docs/cover_PAM_small.jpg);
 	overflow: hidden;
 	border-radius: 8px;
 }
