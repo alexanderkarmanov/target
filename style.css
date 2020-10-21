@@ -153,7 +153,6 @@ margin: 0px 10px;
 	overflow: hidden;
 	display: flex;
 	align-items: flex-end;
-	/*padding-bottom: 20px;*/
 }
 
 .musicbox:target{
