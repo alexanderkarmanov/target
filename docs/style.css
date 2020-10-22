@@ -6,7 +6,7 @@ body {
 	margin: 0;
 	font-family: sans-serif;
 	background: #000a00;
-	background-image: url(dima3-2.jpg);
+	background-image: url(images/dima3-2.jpg);
 	background-repeat: no-repeat;
 	/*background-position: center;*/
 	
@@ -178,7 +178,7 @@ margin: 0px 10px;
 	height: 200px;
 	background-position: center;
 	background-size: cover;
-	background-image: url(cover_PAM_small.jpg);
+	background-image: url(images/Cover/cover_PAM_small.jpg);
 	overflow: hidden;
 	border-radius: 8px;
 }
@@ -188,7 +188,7 @@ margin: 0px 10px;
 	height: 200px;
 	background-position: center;
 	background-size: cover;
-	background-image: url(kara-n-teen.jpg);
+	background-image: url(images/Cover/kara-n-teen.jpg);
 	overflow: hidden;
 	border-radius: 8px;
 }
